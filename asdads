@@ -1,0 +1,230 @@
+[
+  {
+    "name": ["CT", "Metal (High Damage)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-951.03125, 577.02886962891, 11840.029296875],
+    "viewangles": [-15.34497833252, 170.28620910645]
+  },
+  {
+    "name": ["CT", "Metal (Medium Damage)"],
+    "weapon": "weapon_hegrenade",
+    "position": [-974.00103759766, 576.890625, 11776.03125],
+    "viewangles": [-22.000038146973, 169.21145629883]
+  },
+  {
+    "name": ["CT", "Boxes"],
+    "weapon": "weapon_molotov",
+    "position": [-974.01556396484, 442.03125, 11776.03125],
+    "viewangles": [-21.780126571655, 159.31085205078]
+  },
+  {
+    "name": ["Middle", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [-1963.7491455078, -35.635238647461, 11776.467773438],
+    "viewangles": [-13.750061035156, 24.413732528687]
+  },
+  {
+    "name": ["Middle", "CT"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1915.375, -74.164581298828, 11776.03125],
+    "viewangles": [-13.475060462952, 30.904733657837],
+    "grenade": {
+      "run": 1,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["Corridor", "Corner"],
+    "weapon": "weapon_molotov",
+    "position": [-1746.3754882813, -35.412586212158, 11776.03125],
+    "viewangles": [-29.480411529541, 127.63146209717],
+    "grenade": {
+      "run": 16
+    }
+  },
+  {
+    "name": ["Corridor", "Boxes"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1548.9624023438, -336.41067504883, 11776.03125],
+    "viewangles": [-17.105331420898, 127.34470367432],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Box", "Corner"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1730.7611083984, -2.0756042003632, 11776.03125],
+    "viewangles": [-18.095325469971, 129.73506164551],
+    "grenade": {
+      "run": 3,
+      "run_speed": true,
+      "run_yaw": 180
+    }
+  },
+  {
+    "name": ["T Corridor", "Fakeduck (Safe)"],
+    "weapon": "weapon_molotov",
+    "position": [-2047.96875, -572.49047851563, 11776.03125],
+    "viewangles": [-22.88027381897, 62.11067199707]
+  },
+  {
+    "name": ["Fakeduck", "Corridor"],
+    "weapon": "weapon_molotov",
+    "position": [-1465.5432128906, 655.28015136719, 11876.017578125],
+    "viewangles": [-8.6901149749756, -116.38303375244],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Middle", "CT"],
+    "weapon": "weapon_molotov",
+    "position": [-1550.8344726563, 161.21067810059, 11776.03125],
+    "viewangles": [-10.505102157593, 75.930503845215]
+  },
+  {
+    "name": ["Middle", "CT"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1356.1378173828, 184.52601623535, 11776.03125],
+    "viewangles": [3.2998189926147, 43.265419006348],
+    "grenade": {
+      "run": 20
+    }
+  },
+  {
+    "name": ["Metal", "Corner"],
+    "weapon": "weapon_molotov",
+    "position": [-1718.9118652344, 912.21887207031, 11776.03125],
+    "viewangles": [-23.503719329834, -154.82916259766],
+    "grenade": {
+      "run": 17
+    }
+  },
+  {
+    "name": ["Middle", "Metal"],
+    "weapon": "weapon_molotov",
+    "position": [-1678.5424804688, 385.20913696289, 11776.03125],
+    "viewangles": [-16.344871520996, 22.884435653687],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "Metal"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1711.8061523438, 267.17553710938, 11776.03125],
+    "viewangles": [3.485650062561, 35.74528503418],
+    "grenade": {
+      "run": 44,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Middle", "Metal"],
+    "weapon": "weapon_molotov",
+    "position": [-1279.9360351563, 238.98127746582, 11776.03125],
+    "viewangles": [-23.079393386841, 122.78537750244],
+    "grenade": {
+      "run": 9
+    }
+  },
+  {
+    "name": ["Middle", "Metal"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1264.2814941406, 214.32318115234, 11776.03125],
+    "viewangles": [3.0455601215363, 121.87975311279],
+    "grenade": {
+      "run": 20,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT", "Metal"],
+    "weapon": "weapon_molotov",
+    "position": [-877.09869384766, 718.11010742188, 11776.03125],
+    "viewangles": [-21.97953414917, 178.64349365234]
+  },
+  {
+    "name": ["Corridor", "Fakeduck"],
+    "description": "SAFE!",
+    "weapon": "weapon_hegrenade",
+    "position": [-2065.1472167969, -652.6943359375, 11776.03125],
+    "viewangles": [-21.450254440308, 63.403949737549],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Metal", "Fakeduck"],
+    "weapon": "weapon_molotov",
+    "position": [-1714.8796386719, 729.26165771484, 11776.03125],
+    "viewangles": [-12.485525131226, -153.34593200684]
+  },
+  {
+    "name": ["Metal", "Fakeduck"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1700.2186279297, 743.1484375, 11776.03125],
+    "viewangles": [-10.065540313721, -149.93592834473],
+    "grenade": {
+      "run": 1
+    }
+  },
+  {
+    "name": ["Metal", "Boxes"],
+    "weapon": "weapon_molotov",
+    "position": [-1707.0321044922, 745.26770019531, 11776.03125],
+    "viewangles": [2.4194593429565, 146.89503479004]
+  },
+  {
+    "name": ["Metal", "Boxes"],
+    "weapon": "weapon_hegrenade",
+    "position": [-1701.5235595703, 743.65270996094, 11776.03125],
+    "viewangles": [0.93441593647003, 147.22381591797]
+  },
+  {
+    "name": ["Fakeduck", "Metal"],
+    "weapon": "weapon_hegrenade",
+    "position": [-2394.5441894531, 681.75988769531, 11797.03125],
+    "viewangles": [-10.395728111267, -27.531105041504],
+    "grenade": {
+      "run": 7,
+      "run_speed": true
+    },
+    "duck": true
+  },
+  {
+    "name": ["CT", "White"],
+    "description": "Jump Throw!",
+    "weapon": "weapon_molotov",
+    "position": [-1563.1793212891, 852.82525634766, 11790.03125],
+    "viewangles": [-5.4458351135254, -154.57641601563],
+    "grenade": {
+      "delay": 15,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Boxed ", "Lower"],
+    "weapon": "weapon_molotov",
+    "position": [-2100.9096679688, 954.02947998047, 11744.03125],
+    "viewangles": [-17.710788726807, -99.92790222168]
+  },
+  {
+    "name": ["Wood", "Boxes"],
+    "weapon": "weapon_molotov",
+    "position": [-1751.4102783203, -43.166126251221, 11776.03125],
+    "viewangles": [-18.865808486938, 113.0318069458],
+    "grenade": {
+      "strength": 0.5,
+      "run": 14,
+      "run_speed": true,
+      "delay": 7,
+      "recovery_yaw": -90,
+      "jump": true
+    }
+  }
+]
